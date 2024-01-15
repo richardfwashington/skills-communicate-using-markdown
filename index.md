@@ -7,3 +7,7 @@
 ```javascript
 let name = "Bagel Cat"
 ```
+
+- [ ] Do this thing
+- [x] This thing is done
+- [ ] Not yet done
